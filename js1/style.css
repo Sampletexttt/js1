@@ -1,0 +1,52 @@
+/* de home page */
+
+
+.main {
+  text-align: center;
+  padding: 1em;
+  margin-top: 10em;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid;
+  border-radius: 6px;
+  background-color: white;
+  border-style: solid;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+  display: inline;
+  margin-top: 1em;
+}
+.links:hover {
+  color: grey;
+}
+
+/* de uitreken paginas */
+.text {
+  text-align: center;
+  padding: 1em;
+  background-color: white;
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  width: 20%;
+}
+
+.space {
+ padding-top: 1em;
+}
+
+#button1 {
+  background-color: green;
+  cursor: pointer;
+  padding: 1em;
+  color: white;
+}
+#button1:hover {
+  background-color: darkgreen;
+  color: black;
+}
